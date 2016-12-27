@@ -10,14 +10,15 @@ Basic image editor using MATLAB
 6- Crop.<br>
 7- Color Maps (applies only to grayscale images).<br>
 8- YIQ and HSV (applies only to truecolor images).<br>
-9- Transformation functions:
-  * rgb2gray
-  * gray2rgb
-  * rgb2ind
-  * ind2rgb
-  * gray2ind
-  * ind2gray
-10- Unlimited Undo and Redo.<br>
+9- Unlimited Undo and Redo.<br>
+10- Transformation functions:
+  - rgb2gray
+  - gray2rgb
+  - rgb2ind
+  - ind2rgb
+  - gray2ind
+  - ind2gray
+<br>
 
 #####NOTE: this project was built as an assignment so bugs are defined :) 
 
